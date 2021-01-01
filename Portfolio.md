@@ -1,18 +1,18 @@
 # Al-shimaa Gamal Portfolio
-## Softwere Engineering
-## Graduated from Cairo University, Faculy of Engineering, Systems and Biomedical Engineering
+## Software Engineering
+## Graduated from Cairo University, Faculty of Engineering, Systems and Biomedical Engineering department
 
 -----------------------------------------------------------------------------------------------
 
-- Frontend page for Blood bank web site
+- Front-end page for Blood bank website
 ![BloodBank](Bloodbank.mp4)
 
 -----------------------------------------------------------------------------------------------
-- Woedpress web site for indoor fracking
+- Woedpress website for indoor tracking
 ![wordpress](wordpress.mp4)
 
 -----------------------------------------------------------------------------------------------
-- Guide to how use our web site
+- Guide to how use our website
 ![Guide](Guide.mp4)
 
 -----------------------------------------------------------------------------------------------
@@ -20,7 +20,7 @@
 ![AR](ARgame.mp4)
 
 -----------------------------------------------------------------------------------------------
-- AR anatomy system using Gave input
+- AR anatomy system using Gaze input
 ![Gaze](DEMO_GAZE.mp4)
 
 -----------------------------------------------------------------------------------------------
