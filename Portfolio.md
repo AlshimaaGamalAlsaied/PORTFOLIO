@@ -9,5 +9,4 @@
 
 -----------------------------------------------------------------------------------------------
 - Woedpress web site for indoor fracking
-![Wordpress](wordpress.jpg)
-![Wordpress](wordpress.mp4)
+![](wordpress.mp4)
