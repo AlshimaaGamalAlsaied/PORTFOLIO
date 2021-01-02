@@ -1,5 +1,5 @@
 # Al-shimaa Gamal Portfolio
-## Software Engineering
+## Software Engineer
 ## Graduated from Cairo University, Faculty of Engineering, Systems and Biomedical Engineering department
 
 -----------------------------------------------------------------------------------------------
